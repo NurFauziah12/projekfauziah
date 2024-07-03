@@ -16,8 +16,8 @@ class MalasngodingController extends Controller
         // Pesan khusus untuk validasi
         $messages = [
             'required' => ':attribute wajib diisi ya jialovers!!!',
-            'min' => ':attribute harus diisi minimal :min karakter ya jialovers!!!',
-            'max' => ':attribute harus diisi maksimal :max karakter ya jialovers!!!',
+            'min' => ':ISI YANG BENAR DONG!!!',
+            'max' => ':HIHI!!!',
         ];
 
         // Validasi dengan pesan khusus
